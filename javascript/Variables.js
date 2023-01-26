@@ -4,12 +4,11 @@
 // we'd mostly use const and let only 
 
 //In cosnt we cant reassign or redeclare a variable
-// const myName = [];
-// console.log(myName);
-// myName.push("John")
-// console.log(myName);
+ const myName = [];
+ console.log(myName);
+ myName.push("John")
+ console.log(myName);
 
-// const myName = "tee";
 
 
 
