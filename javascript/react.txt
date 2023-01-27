@@ -1,0 +1,2 @@
+REACT : React Dom 
+1.every domain name resolves to an IP address 
